@@ -25,7 +25,7 @@ A tribute page about a famous person. It contains information, an image, importa
 
 A webpage with a styled student grades table and a feedback form.
 
-Figma Link : https://www.figma.com/make/hnp91By1rKuWMWp0lf81nL/Complete-current-task?t=SNe6AtfoGd8rqs3Q-1
+Figma Link : https://www.figma.com/design/YHNmEJMBgW9uhNDaTatKWx/WebFigma1?node-id=0-1&t=YbbbwaNQvLTWx0aF-1
 
 ## Technologies
 
